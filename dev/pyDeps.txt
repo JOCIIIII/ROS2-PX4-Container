@@ -1,8 +1,0 @@
-requests
-onnx
-matplotlib
-onnxruntime
-opencv-python
-scikit-learn
-pytictoc
-pycuda

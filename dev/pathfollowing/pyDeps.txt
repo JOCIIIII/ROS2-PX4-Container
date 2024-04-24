@@ -1,0 +1,9 @@
+requests
+onnx
+matplotlib
+onnxruntime
+opencv-python
+scikit-learn
+pytictoc
+pycuda
+setuptools==58.2

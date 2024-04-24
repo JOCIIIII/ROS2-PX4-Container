@@ -1,0 +1,5 @@
+ros-galactic-cv-bridge
+libgl1-mesa-glx
+libffi-dev
+python3-pip
+python3-dev
